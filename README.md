@@ -15,5 +15,6 @@ Rules:
 The challenge lies in efficiently generating puzzles with unique solutions and measuring how “difficult” they are to solve.
 
 5x5 example of the puzzle, it requires placing 1 Star in each row, column, and region!
+
 ![Description](5x5puzzle.png)
 
