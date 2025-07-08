@@ -13,3 +13,6 @@ Rules:
  - Stars cannot touch each other, not even diagonally
 
 The challenge lies in efficiently generating puzzles with unique solutions and measuring how “difficult” they are to solve.
+Below is a 5x5 example of the puzzle, it requires placing 1 Star in each row, column, and region!
+![Description](images/5x5puzzle.png)
+
